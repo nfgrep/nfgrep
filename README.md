@@ -1,6 +1,6 @@
 ### Howdy! 👋
 You've stumbled upon my personal github.
-Repos here are all things I enjoy on my own time.
+Repos here are all things I enjoy on my own time.\
 Things like:
 - GameBoy Advance development
 - Graphics programming
