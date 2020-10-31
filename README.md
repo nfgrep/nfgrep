@@ -2,8 +2,8 @@
 You've stumbled upon my personal github.
 Repos here are all things I enjoy on my own time.\
 Things like:
-- Modern mobile frameworks
-- Modern Web tech
+- Front-end frameworks
+- New web tech
 - Graphics programming
 - Game Engine Architecture
 
