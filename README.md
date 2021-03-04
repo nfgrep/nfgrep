@@ -1,6 +1,6 @@
 ### Howdy! 👋
 You've stumbled upon my personal github.
-Repos here are all things I enjoy on my own time.\
+Repos here are all things I enjoy on my own time.
 
 <!--
 **nfgrep/nfgrep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
