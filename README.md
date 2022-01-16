@@ -5,7 +5,7 @@ Things I like 😎:
 - Programming Languages
 - Small/Indie web stuff  
 
-Links to waste some time with 🌐:  
+Some fun links 🌐:  
 - [Reinforcement Learning: an Introduction](http://www.incompleteideas.net/book/RLbook2020.pdf)
 - [scratchapixel](https://www.scratchapixel.com/)
 - [The small web](https://ar.al/2020/08/07/what-is-the-small-web/)
