@@ -1,4 +1,4 @@
-### Howdy! 👋
+### Hello! 👋
 Things I like 😎:  
 - Graphics Programming, Game Engines, Operating Systems and VMs
 - Reinforcement Learning
