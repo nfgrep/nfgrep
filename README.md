@@ -11,7 +11,6 @@ Some fun links 🌐:
 - [The small web](https://ar.al/2020/08/07/what-is-the-small-web/)
 - [pico-8](https://www.lexaloffle.com/pico-8.php)
 - [ebiten](https://github.com/hajimehoshi/ebiten)
-- [Cakelisp](https://macoy.me/blog/programming/CakelispIntro)
 
 <!--
 **nfgrep/nfgrep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
