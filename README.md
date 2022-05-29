@@ -1,9 +1,4 @@
 ### Hello! 👋
-Things I like 😎:  
-- Graphics Programming, Game Engines, Operating Systems and VMs
-- Reinforcement Learning
-- Programming Languages
-- Small/Indie web stuff  
 
 Some fun links 🌐:  
 - [Reinforcement Learning: an Introduction](http://www.incompleteideas.net/book/RLbook2020.pdf)
