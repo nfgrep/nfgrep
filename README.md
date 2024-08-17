@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm Nathan, a software person.  
+I'm Nathan.  
 
 Some fun links 🌐:  
 - [Reinforcement Learning: an Introduction](http://www.incompleteideas.net/book/RLbook2020.pdf)
